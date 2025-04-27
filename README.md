@@ -1,6 +1,6 @@
 ## :star2: OVERVIEW
  
-<img src="./received_6653670931403170.jpeg" width="500" alt="">
+<img src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/main/assests/Rainbow.gif" width="500" alt="">
  
 ## [𝗡𝗢𝗧𝗘 : 𝗧𝗛𝗜𝗦 𝗜𝗦 𝗙𝗥𝗘𝗘 𝗧𝗢𝗢𝗟 𝗕𝗬 SEA 𝗫𝗗]
  
