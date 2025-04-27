@@ -1,6 +1,6 @@
 ## :star2: OVERVIEW
  
-## [𝗡𝗢𝗧𝗘 : 𝗧𝗛𝗜𝗦 𝗜𝗦 𝗙𝗥𝗘𝗘 𝗧𝗢𝗢𝗟 𝗕𝗬 SEA 𝗫𝗗]
+## 𝗡𝗢𝗧𝗘 : 𝗧𝗛𝗜𝗦 𝗜𝗦 𝗙𝗥𝗘𝗘 𝗧𝗢𝗢𝗟 𝗕𝗬 SEA 𝗫𝗗
  
 ## :hammer_and_wrench: FUTURES
  
