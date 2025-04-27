@@ -13,7 +13,7 @@
 ```bash
 cd $HOME
 rm -rf SEA-XD
-git clone --depth=1 https://github.com/NOOR-404/SEA-XD
+git clone --depth=1 https://github.com/NOOR-404/SEA-XD.git
 cd SEA-XD
 chmod 777 *
 ./SEAXD
