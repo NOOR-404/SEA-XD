@@ -12,11 +12,11 @@
  
 ```bash
 cd $HOME
-rm -rf CURL-X
-git clone --depth=1 https://github.com/CURL-XD/CURL-X
-cd CURL-X
+rm -rf SEA-XD
+git clone --depth=1 https://github.com/NOOR-404/SEA-XD
+cd SEA-XD
 chmod 777 *
-./IMRAN
+./SEAXD
 ```
 
 ## :telephone_receiver: CONTACT INFORMATION
