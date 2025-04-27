@@ -7,7 +7,7 @@
 - **FUTURE 𝟭**: 𝗥𝗔𝗡𝗗𝗢𝗠 𝗖𝗟𝗢𝗡𝗘
 - **FUTURE 𝟮**: 𝗙𝗜𝗟𝗘 𝗖𝗟𝗢𝗡𝗘
 
- ![Screenshot]([https://github.com/user-attachments/assets/d55156a8-a993-40e6-870e-42ed778f263b)
+ ![Screenshot](https://github.com/user-attachments/assets/d55156a8-a993-40e6-870e-42ed778f263b)
 ## :𝗥𝗨𝗡 𝗧𝗢𝗢𝗟𝗦
  
 ```bash
