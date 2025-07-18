@@ -22,5 +22,5 @@ chmod 777 *
 ## :telephone_receiver: CONTACT INFORMATION
  
 - **FACEBOOK** : [Mohammad Noor](https://www.facebook.com/its.Noor077)
-- - **TELEGRAM** : [@N_O_O_R_4_0_4](https://t.me/N_O_O_R_4_0_4)
+- **TELEGRAM** : [@N_O_O_R_4_0_4](https://t.me/N_O_O_R_4_0_4)
 - **WHATSAPP** : [+8801925385443](https://api.whatsapp.com/send?phone=+8801925385443&text=)
