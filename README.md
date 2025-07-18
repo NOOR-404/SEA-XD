@@ -1,4 +1,4 @@
-## 𝗡𝗢𝗧𝗘 : 𝗧𝗛𝗜𝗦 𝗜𝗦 𝗙𝗥𝗘𝗘 𝗧𝗢𝗢𝗟 𝗕𝗬 NOOR-404
+## 𝗡𝗢𝗧𝗘 : 𝗧𝗛𝗜𝗦 𝗜𝗦 𝗙𝗥𝗘𝗘 𝗧𝗢𝗢𝗟 OWNER 𝗕𝗬 NOOR-404
  
 ## :hammer_and_wrench: FUTURES
  
