@@ -7,7 +7,7 @@
 ## :star2: OVERVIEW
 
  ![Screenshot](https://github.com/user-attachments/assets/a3544a53-14b8-4c31-9868-060f5476161a)
-## : INSTALL 𝗧𝗢𝗢𝗟𝗦
+## : INSTALL 𝗧𝗢𝗢𝗟
  
 ```bash
 cd $HOME
