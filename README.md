@@ -6,7 +6,7 @@
 - **FUTURE 𝟮** : 𝗥𝗔𝗡𝗗𝗢𝗠 𝗖𝗟𝗢𝗡𝗘
 ## :star2: OVERVIEW
 
- ![Screenshot](https://github.com/user-attachments/assets/d55156a8-a993-40e6-870e-42ed778f263b)
+ ![Screenshot](https://github.com/user-attachments/assets/a3544a53-14b8-4c31-9868-060f5476161a)
 ## : INSTALL 𝗧𝗢𝗢𝗟𝗦
  
 ```bash
