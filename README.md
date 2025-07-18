@@ -8,7 +8,7 @@
 - **FUTURE 𝟮**: 𝗥𝗔𝗡𝗗𝗢𝗠 𝗖𝗟𝗢𝗡𝗘
 
  ![Screenshot](https://github.com/user-attachments/assets/d55156a8-a993-40e6-870e-42ed778f263b)
-## :INSTALL 𝗧𝗢𝗢𝗟𝗦
+## : INSTALL 𝗧𝗢𝗢𝗟𝗦
  
 ```bash
 cd $HOME
