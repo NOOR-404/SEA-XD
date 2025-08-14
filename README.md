@@ -2,8 +2,8 @@
  
 ## :hammer_and_wrench: FUTURES
  
-- **FEATURES 𝟭** : 𝗙𝗜𝗟𝗘 𝗖𝗟𝗢𝗡𝗘
-- **FEATURES 𝟮** : 𝗥𝗔𝗡𝗗𝗢𝗠 𝗖𝗟𝗢𝗡𝗘
+- **FUTURES 𝟭** : 𝗙𝗜𝗟𝗘 𝗖𝗟𝗢𝗡𝗘
+- **FUTURES 𝟮** : 𝗥𝗔𝗡𝗗𝗢𝗠 𝗖𝗟𝗢𝗡𝗘
 ## :star2: OVERVIEW
 
  ![Screenshot](https://github.com/user-attachments/assets/a3544a53-14b8-4c31-9868-060f5476161a)
