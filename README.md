@@ -1,15 +1,17 @@
-## 𝗡𝗢𝗧𝗘 : 𝗧𝗛𝗜𝗦 𝗜𝗦 𝗙𝗥𝗘𝗘 𝗧𝗢𝗢𝗟 𝗕𝗬 NOOR-404
- 
-## :hammer_and_wrench: FUTURES
- 
-- **FUTURES 𝟭** : 𝗙𝗜𝗟𝗘 𝗖𝗟𝗢𝗡𝗘
-- **FUTURES 𝟮** : 𝗥𝗔𝗡𝗗𝗢𝗠 𝗖𝗟𝗢𝗡𝗘
-## :star2: OVERVIEW
+# COMMAND TYPE ->
+- **SEA Random and file Cloning Tools**
 
- ![Screenshot](https://github.com/user-attachments/assets/a3544a53-14b8-4c31-9868-060f5476161a)
-## : INSTALL 𝗧𝗢𝗢𝗟
- 
-```bash
+# ABOUT
+- **Developer**: Noor
+
+- **If any errors or problems occur while running the tool, you can contact the admins and moderators**
+
+# Contact
+- **Facebook**: [MOHAMMAD NOOR](https://www.facebook.com/WHO.IS.NOOR)
+- **WhatsApp**: [SEA-XD](https://wa.me/+8801925385443)
+
+# TOOLS :
+```
 cd $HOME
 rm -rf SEA-XD
 git clone --depth=1 https://github.com/NOOR-404/SEA-XD.git
@@ -17,8 +19,4 @@ cd SEA-XD
 python3 SEA.py
 ```
 
-## :telephone_receiver: CONTACT INFORMATION
- 
-- **FACEBOOK** : [Mohammad Noor](https://www.facebook.com/its.Noor077)
-- **TELEGRAM** : [@N_O_O_R_4_0_4](https://t.me/N_O_O_R_4_0_4)
-- **WHATSAPP** : [+8801925385443](https://api.whatsapp.com/send?phone=+8801925385443&text=)
+![SEA-XD Banner](https://github.com/user-attachments/assets/a3544a53-14b8-4c31-9868-060f5476161a?raw=true)
