@@ -7,9 +7,9 @@
 - **If any errors or problems occur while running the tool, you can contact the admins and moderators**
 
 # Contact
-- **Facebook**: [MOHAMMAD NOOR](https://www.facebook.com/WHO.IS.NOOR)
-- **WhatsApp**: [SEA-XD](https://wa.me/+8801925385443)
+- **Facebook** : [MOHAMMAD NOOR](https://www.facebook.com/WHO.IS.NOOR)
 - **Telegram** : [MOHAMMAD NOOR](https://t.me/N_O_O_R_4_0_4)
+- **WhatsApp** : [MOHAMMAD NOOR](https://wa.me/+8801925385443)
 
 # TOOLS :
 ```
