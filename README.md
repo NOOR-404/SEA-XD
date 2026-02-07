@@ -1,5 +1,5 @@
 # COMMAND TYPE ->
-- **SEA File And Random Cloning Tools**
+- **File And Random Cloning Tools**
 
 # ABOUT
 - **Developer**: Noor-404
