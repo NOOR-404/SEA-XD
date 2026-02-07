@@ -9,6 +9,7 @@
 # Contact
 - **Facebook**: [MOHAMMAD NOOR](https://www.facebook.com/WHO.IS.NOOR)
 - **WhatsApp**: [SEA-XD](https://wa.me/+8801925385443)
+- **Telegram** : [MOHAMMAD NOOR](https://t.me/N_O_O_R_4_0_4)
 
 # TOOLS :
 ```
