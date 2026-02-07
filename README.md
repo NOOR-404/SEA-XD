@@ -1,5 +1,5 @@
 # COMMAND TYPE ->
-- **File And Random Cloning Tools**
+- **File And Random Cloning Tool**
 
 # ABOUT
 - **Developer**: Noor-404
