@@ -1,8 +1,8 @@
 # COMMAND TYPE ->
-- **SEA Random and file Cloning Tools**
+- **SEA File And Random Cloning Tools**
 
 # ABOUT
-- **Developer**: Noor
+- **Developer**: Noor-404
 
 - **If any errors or problems occur while running the tool, you can contact the admins and moderators**
 
