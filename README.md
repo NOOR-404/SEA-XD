@@ -1,7 +1,7 @@
 # COMMAND TYPE ->
 - **File And Random Cloning Tool**
 
-# COMMAND STATUS ->
+# TOOL STATUS ->
 - **Currently Tools Is UnderWork Very Soon Back Again**
 
 # ABOUT
