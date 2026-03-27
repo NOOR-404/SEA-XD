@@ -2,7 +2,7 @@
 - **File And Random Cloning Tool**
 
 # TOOL STATUS ->
-- **OFF, Currently Tools Is UnderWork Very Soon Back Again**
+- **ON**
 
 # ABOUT
 - **Developer**: Noor-404
