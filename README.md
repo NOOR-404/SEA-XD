@@ -7,7 +7,7 @@
 # ABOUT
 - **Developer**: Noor-404
 
-- **If any errors or problems occur while running the tool, you can contact the admins and moderators**
+- **If any errors or problems occur while running the tool, you can contact the Owner**
 
 # Contact
 - **Facebook** : [MOHAMMAD NOOR](https://www.facebook.com/WHO.IS.NOOR)
