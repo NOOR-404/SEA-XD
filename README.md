@@ -2,7 +2,7 @@
 - **File And Random Cloning Tool**
 
 # TOOL STATUS ->
-- **ON**
+- **Temporary Off**
 
 # ABOUT
 - **Developer**: Noor-404
